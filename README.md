@@ -1,4 +1,4 @@
-# pryecto_sprint3
+# recuperacion reto 3 ciclo 3
 
 ## Project setup
 ```
